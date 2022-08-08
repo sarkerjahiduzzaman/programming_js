@@ -13,3 +13,5 @@ function maxNumberInArray(numbers){
 }
 const number=[50,55,8,888,44,55,66,88,55,-555];
 console.log(maxNumberInArray(number))
+let x= Math.round(Math.random()*10)
+console.log(x)
